@@ -1,5 +1,5 @@
 # Games
-Games (using pygame)
+:video_game: Games (using pygame)
 
 * Packages: pygame 2.1.2 and numpy 1.22.3
 
